@@ -1,2 +1,2 @@
-Hello
+create one component
 
